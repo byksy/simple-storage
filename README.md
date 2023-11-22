@@ -2,7 +2,7 @@
 
 Go to [Remix](https://remix.ethereum.org/)
 
-Paste the code from SimpleStorage.sol into a new file in Remix
+Paste the code from .sol extension files into new files in Remix
 
 Hit Compile
 
